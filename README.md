@@ -1,0 +1,2 @@
+# autoGenerateXMLfromCSVFile
+Description: Perl script to create XML files for a select "grouping by". The script considers a specified grouping field "AREA" in the input file as the select group by field and will create XML data based on that grouping field ID. The script uses a sample input file called input.csv and creates XML files by the AREA field group. The output file will be one XML for each group by field "AREA" with child XML nodes that correspond to records pulled from a database in each group by XML file AND that meet the SQL select by criteria (see bonus).  
