@@ -9,7 +9,8 @@ Instructions on how to use are in the PERL script file.
 
   About 		  
  
-  Author: Kathleen West   *SUPPORT WOMEN IN TECH*  
+  Author: Kathleen West   
+  *SUPPORT WOMEN IN TECH*  
   https://www.linkedin.com/in/kathleenewest
  
   FAQ's
