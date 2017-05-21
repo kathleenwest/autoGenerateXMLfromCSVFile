@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<group>
+<group_header>
+<id>AREA_WEST</id>
+<text>This XML file contains only the group AREA records (members) that are related (in the same group AREA) </text>
+<southeast>false</southeast>
+<south>false</south>
+<north>false</north>
+<east>false</east>
+<west>true</west>
+<createdby>USER YOUR NAME HERE</createdby>
+<createdtime>2017_05_21_15_03_33</createdtime>
+<modby>USER YOUR NAME HERE</modby>
+<modtime>2017_05_21_15_03_33</modtime>
+</group_header>
+<group_member>
+<id>BA</id>
+<color>GREEN</color>
+<mode>AUTO</mode>
+<text>Member belongs to group AREA WEST</text>
+<flags>
+<flag1>false</flag1>
+<flag2>false</flag2>
+</flags>
+</group_member>
+<group_member>
+<id>CA</id>
+<color>GREEN</color>
+<mode>AUTO</mode>
+<text>Member belongs to group AREA WEST</text>
+<flags>
+<flag1>false</flag1>
+<flag2>false</flag2>
+</flags>
+</group_member>
+<group_member>
+<id>DA</id>
+<color>GREEN</color>
+<mode>AUTO</mode>
+<text>Member belongs to group AREA WEST</text>
+<flags>
+<flag1>false</flag1>
+<flag2>false</flag2>
+</flags>
+</group_member>
+<group_footer>
+<id>MESSAGE</id>
+<text>Group AREA WEST Sequence Complete</text>
+</group_footer>
+</group>

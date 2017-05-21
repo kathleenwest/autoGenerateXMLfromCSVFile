@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<group>
+<group_header>
+<id>AREA_NORTH</id>
+<text>This XML file contains only the group AREA records (members) that are related (in the same group AREA) </text>
+<southeast>false</southeast>
+<south>false</south>
+<north>true</north>
+<east>false</east>
+<west>false</west>
+<createdby>USER YOUR NAME HERE</createdby>
+<createdtime>2017_05_21_15_03_33</createdtime>
+<modby>USER YOUR NAME HERE</modby>
+<modtime>2017_05_21_15_03_33</modtime>
+</group_header>
+<group_member>
+<id>L</id>
+<color>GREEN</color>
+<mode>AUTO</mode>
+<text>Member belongs to group AREA NORTH</text>
+<flags>
+<flag1>false</flag1>
+<flag2>false</flag2>
+</flags>
+</group_member>
+<group_member>
+<id>M</id>
+<color>GREEN</color>
+<mode>AUTO</mode>
+<text>Member belongs to group AREA NORTH</text>
+<flags>
+<flag1>false</flag1>
+<flag2>false</flag2>
+</flags>
+</group_member>
+<group_member>
+<id>N</id>
+<color>GREEN</color>
+<mode>AUTO</mode>
+<text>Member belongs to group AREA NORTH</text>
+<flags>
+<flag1>false</flag1>
+<flag2>false</flag2>
+</flags>
+</group_member>
+<group_member>
+<id>O</id>
+<color>GREEN</color>
+<mode>AUTO</mode>
+<text>Member belongs to group AREA NORTH</text>
+<flags>
+<flag1>false</flag1>
+<flag2>false</flag2>
+</flags>
+</group_member>
+<group_member>
+<id>P</id>
+<color>GREEN</color>
+<mode>AUTO</mode>
+<text>Member belongs to group AREA NORTH</text>
+<flags>
+<flag1>false</flag1>
+<flag2>false</flag2>
+</flags>
+</group_member>
+<group_footer>
+<id>MESSAGE</id>
+<text>Group AREA NORTH Sequence Complete</text>
+</group_footer>
+</group>

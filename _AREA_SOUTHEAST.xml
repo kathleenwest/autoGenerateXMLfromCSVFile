@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<group>
+<group_header>
+<id>AREA_SOUTHEAST</id>
+<text>This XML file contains only the group AREA records (members) that are related (in the same group AREA) </text>
+<southeast>true</southeast>
+<south>false</south>
+<north>false</north>
+<east>false</east>
+<west>false</west>
+<createdby>USER YOUR NAME HERE</createdby>
+<createdtime>2017_05_21_15_03_33</createdtime>
+<modby>USER YOUR NAME HERE</modby>
+<modtime>2017_05_21_15_03_33</modtime>
+</group_header>
+<group_member>
+<id>AA</id>
+<color>GREEN</color>
+<mode>AUTO</mode>
+<text>Member belongs to group AREA SOUTHEAST</text>
+<flags>
+<flag1>false</flag1>
+<flag2>false</flag2>
+</flags>
+</group_member>
+<group_member>
+<id>X</id>
+<color>GREEN</color>
+<mode>AUTO</mode>
+<text>Member belongs to group AREA SOUTHEAST</text>
+<flags>
+<flag1>false</flag1>
+<flag2>false</flag2>
+</flags>
+</group_member>
+<group_member>
+<id>Y</id>
+<color>GREEN</color>
+<mode>AUTO</mode>
+<text>Member belongs to group AREA SOUTHEAST</text>
+<flags>
+<flag1>false</flag1>
+<flag2>false</flag2>
+</flags>
+</group_member>
+<group_member>
+<id>Z</id>
+<color>GREEN</color>
+<mode>AUTO</mode>
+<text>Member belongs to group AREA SOUTHEAST</text>
+<flags>
+<flag1>false</flag1>
+<flag2>false</flag2>
+</flags>
+</group_member>
+<group_footer>
+<id>MESSAGE</id>
+<text>Group AREA SOUTHEAST Sequence Complete</text>
+</group_footer>
+</group>
