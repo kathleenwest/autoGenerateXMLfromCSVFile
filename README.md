@@ -1,37 +1,11 @@
 # autoGenerateXMLfromCSVFile
 Description: Perl script to create XML files for a select "grouping by". The script considers a specified grouping field "AREA" in the input file as the select group by field and will create XML data based on that grouping field ID. The script uses a sample input file called input.csv and creates XML files by the AREA field group. The output file will be one XML for each group by field "AREA" with child XML nodes that correspond to records pulled from a database in each group by XML file AND that meet the SQL select by criteria (see bonus).  
 
-
-
-  autoGenerateXMLfromCSVFile.pl 
-
-  Description: Perl script to create XML files for a select "grouping by". 
-  The script considers a specified grouping field "AREA" in the input file 
-  as the select group by field and will create XML data based on that 
-  grouping field ID. The script uses a sample input file called input.csv and
-  creates XML files by the AREA field group. The output file will be one XML
-  for each group by field "AREA" with child XML nodes that correspond to 
-  records pulled from a database in each group by XML file AND that meet
-  the SQL select by criteria (see bonus).  
+Bonus: There is an example of how to query, select, and order by specific
+fields (COLOR and MODE in this example) DBI and SQL commands. 
+select AREA,MEMBER,COLOR,MODE from input.csv where COLOR like 'GREEN%' AND MODE like 'AUTO%' ORDER BY AREA,MEMBER
  
-  Bonus: There is an example of how to query, select, and order by specific
-  fields (COLOR and MODE in this example) DBI and SQL commands. 
-  select AREA,MEMBER,COLOR,MODE from input.csv where COLOR like 'GREEN%' AND MODE like 'AUTO%' ORDER BY AREA,MEMBER
- 
-  How to Use
- 
-  >> autoGenerateXMLfromCSVFile.pl
-  Example: autoGenerateXMLfromCSVFile.pl
- 
-  Input files: 
- 					input.csv located in same directory
- 
-  Output Directory: $outdir
-  					Default: output_XML
-  Output files:
-  					_AREA_%area%.xml
- 
-
+Instructions on how to use are in the PERL script file. 
 
   About 		  
  
